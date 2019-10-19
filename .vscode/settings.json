@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "files.eol": "\n",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#b6129b",
+        "statusBar.foreground": "#ffffff",
+    },
+}
